@@ -31,3 +31,11 @@ Property ownership may depend on external factors (location, real estate market 
 
 
 Business Lending’s moderate link to Bank Loans suggests some customers may have both personal and business debts. However, business lending is relatively uncorrelated with other deposit or property-related metrics, indicating it may serve a distinct subset of customers or needs.
+
+
+## Dashboard
+
+Visualized it using Power BI (not completed yet, some sections are still remaining)..
+
+- Used several DAX queries like Total Loan, Total Deposits
+- Added several columns to make deeper insights.
