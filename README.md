@@ -37,5 +37,4 @@ Business Lending’s moderate link to Bank Loans suggests some customers may hav
 
 Visualized it using Power BI (not completed yet, some sections are still remaining)..
 
-- Used several DAX queries like Total Loan, Total Deposits
-- Added several columns to make deeper insights.
+
