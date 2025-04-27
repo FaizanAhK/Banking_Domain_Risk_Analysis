@@ -35,6 +35,4 @@ Business Lending’s moderate link to Bank Loans suggests some customers may hav
 
 ## Dashboard
 
-Visualized it using Power BI (not completed yet, some sections are still remaining)..
-
 
