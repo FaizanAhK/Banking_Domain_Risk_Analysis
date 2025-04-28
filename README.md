@@ -68,3 +68,16 @@ Business Lending’s moderate link to Bank Loans suggests some customers may hav
 - **Foreign Currency Amount :** An account held in foreign currency.
 - **Engagement Account :** Engagement Banking puts the customer at the center and aims to deliver the digital experiences they expect.
 - **Credit Cards Balance :** It is the total money currently owned by a cardholder to their credit card bank.
+
+## Conclusion –
+
+
+Empowered by the latest data visualization techniques, Power BI dashboards are among the most effective resources for using in banking sector. As outlined in this write-up, a banking operations dashboard in Power BI can be developed with key banking related metrics and KPIs.
+
+## Future Work –
+
+
+- With these dashboards banks can easily know what is the total loan amount and all other things of a particular investor.
+- It also helps which type of banks have more number of clients as we can see private banks have more number of clients so it can helps other banks can build their strategies to increase clients.
+- It also provides insights about which nationality has highest bank loans.
+- It gives information about various types of amount involved in different types of accounts by investors.
