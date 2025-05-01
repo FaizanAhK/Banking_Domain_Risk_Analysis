@@ -2,7 +2,7 @@
 
 ## Problem Statement :
 
-Develop aa basic understanding of Risk Analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
+Develop a basic understanding of Risk Analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
 
 ## About the Dataset
 
